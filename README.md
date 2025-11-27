@@ -34,7 +34,7 @@ Password: stellaluna
 Customer Account
 URL: /customer_login.php
 
-Email: tepr@gmail.com
+Email: tep@gmail.com
 Password: tep
 
 How to Use:
